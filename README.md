@@ -1,7 +1,4 @@
-# Informatika – Dolgozat
-
-**Név:** __________________________  
-**Dátum:** ________________________
+# Dolgozat
 
 ## 1. Feleletválasztós
 
